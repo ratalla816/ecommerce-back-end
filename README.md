@@ -35,6 +35,7 @@
    
   ## Table of Contents
   - [Description](#description)
+  - [Walkthrough](#walkthrough)
   - [Documentation](#documentation)
   - [Screenshot](#screenshot)
   - [Features](#features)
@@ -42,6 +43,10 @@
   - [License](#license)
   - [Testing](#testing)
   - [Contact](#contact)
+
+  ## Walkthrough
+
+  * View the walkthrough video here: <https://drive.google.com/file/d/1mR7qnyDOvjRkck5QBNlTzmvr1Q3wkSRn/view>
 
   ## Documentation
   insomnia <https://docs.insomnia.rest/>
