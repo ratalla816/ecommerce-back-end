@@ -71,9 +71,9 @@
   # Acknowledgements
   
   * Rob Atalla
-  <br>
-  Nathan Szurek (Tutor)
-  <br>
+  
+  * Nathan Szurek (Tutor)
+  
   * KU Coding Bootcamp, Module 13 Challenge Assignment © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand Confidential and Proprietary.
   All Rights Reserved.
   
