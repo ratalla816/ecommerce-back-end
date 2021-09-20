@@ -76,6 +76,9 @@
   
   * KU Coding Bootcamp, Module 13 Challenge Assignment © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand Confidential and Proprietary.
   All Rights Reserved.
+
+  * KU Coding Bootcamp, Module 14 lesson activity, "Just Tech News" © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand Confidential and Proprietary.
+  All Rights Reserved.
   
     
   ## License

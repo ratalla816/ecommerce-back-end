@@ -1,3 +1,5 @@
+// from module 14 lesson activity: just-tech-news 
+
 const Sequelize = require('sequelize');
 
 require('dotenv').config();
