@@ -36,7 +36,6 @@
   ## Table of Contents
   - [Description](#description)
   - [Documentation](#documentation)
-  - [Usage](#usage)
   - [Screenshot](#screenshot)
   - [Features](#features)
   - [Acknowledgements](#acknowledgements)
@@ -45,20 +44,35 @@
   - [Contact](#contact)
 
   ## Documentation
-  Details coming soon!
- 
-  ## Usage
-  Details coming soon!
+  insomnia <https://docs.insomnia.rest/>
+  <br>
+  express <http://expressjs.com/en/guide/routing.html>
+  <br>
+  jawsDB <https://www.jawsdb.com/docs/>
+  <br>
+  mysql <https://dev.mysql.com/doc/>
+  <br>
+  dotenv <https://www.npmjs.com/package/dotenv>
+  <br>
+  sequelize <https://sequelize.org/master/>
+  
 
+ 
   ## Screenshot
   ![Screenshot](github/images/screenshot.png)
 
   ## Features
-  Details coming soon!
+  Technologies used include: sequelize, dotenv, mysql, jawsDB, insomnia, and express. 
+  Login credentials are hidden from the public by storing them in an .env file. 
+  Users have the ability to view an inventory list stored in the database by products, categories, and tags. 
+  Products can be sorted using GET requests to view all or view one. Attributes for individual products can be edited using PUT requests. 
+  Post requests will add new products, and delete requests will delete products from the database. 
   
   # Acknowledgements
   
   * Rob Atalla
+  <br>
+  Nathan Szurek (Tutor)
   <br>
   * KU Coding Bootcamp, Module 13 Challenge Assignment © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand Confidential and Proprietary.
   All Rights Reserved.
@@ -71,7 +85,7 @@
 
 
   ## Testing
-  Jest, Insomnia
+  Insomnia
 
   ## Contact:
   Holler at me! <a href="mailto:rob.atalla@robatalla816.com">rob.atalla@robatalla816.com</a>
